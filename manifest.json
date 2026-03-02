@@ -1,0 +1,20 @@
+[
+    {
+        "guid": "fffffe83-fe36-4568-abac-f5ce0574b409",
+        "name": "Jellio",
+        "description": "This plugin provides integration between Jellyfin and the Jellio service.\nCommunity-maintained fork with Jellyfin 10.11.x support.\n",
+        "overview": "Integrates Jellio features with Jellyfin.",
+        "owner": "YeahItsMeAgain",
+        "category": "General",
+        "versions": [
+            {
+                "version": "1.4.1.0",
+                "changelog": "Some fixes and change made by upstream forks",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/YeahItsMeAgain/jellio-plus/releases/download/v1.4.1/jellio_1.4.1.0.zip",
+                "checksum": "e21c54ee232b5a4c1c4ac4700819a369",
+                "timestamp": "2026-03-02T00:39:39Z"
+            }
+        ]
+    }
+]
